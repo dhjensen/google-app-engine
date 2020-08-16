@@ -1,0 +1,34 @@
+name: aoc
+files: /home/daniel/Documents/google/aoc/baseAdd.htm
+files: /home/daniel/Documents/google/aoc/js/main.js
+files: /home/daniel/Documents/google/aoc/baseChild.htm
+files: /home/daniel/Documents/google/aoc/app.yaml
+files: /home/daniel/Documents/google/aoc/base.htm
+files: /home/daniel/Documents/google/aoc/aoc.py
+files: /home/daniel/Documents/google/aoc/stylesheets/main.css
+basedir: /home/daniel/Documents/google/
+webdir: http://localhost:8080
+template: 
+word_wrap: 0
+targetlist: _parent
+targetlist: _blank
+targetlist: _top
+urllist: '.$SCRIPT_NAME.'
+urllist: <?php echo $SCRIPT_NAME ?>
+recent_files: /home/daniel/Documents/google/aoc/baseAdd.htm
+recent_files: /home/daniel/Documents/google/aoc/js/main.js
+recent_files: /home/daniel/Documents/google/aoc/baseChild.htm
+recent_files: /home/daniel/Documents/google/aoc/app.yaml
+recent_files: /home/daniel/Documents/google/aoc/base.htm
+recent_files: /home/daniel/Documents/google/aoc/aoc.py
+recent_files: /home/daniel/Documents/google/aoc/stylesheets/main.css
+recent_files: /home/daniel/Documents/google/aoc/index.yaml
+recent_files: /home/daniel/.fr-9o0CP7/tasks/templates/index.html
+recent_files: /usr/share/applications/spe.desktop
+recent_files: /home/daniel/Documents/google/aoc
+opendir: /home/daniel/Documents/google/aoc/js
+savedir: /home/daniel/Documents/google/aoc
+view_html_toolbar: 1
+view_custom_menu: 1
+view_main_toolbar: 1
+view_left_panel: 1

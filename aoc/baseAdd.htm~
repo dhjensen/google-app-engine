@@ -1,0 +1,21 @@
+{% extends "base.htm" %}
+
+{% block title %}Add coords to the map{% endblock %}
+
+{% block content %}
+<form action="/add" method="post">
+
+<!-- "Res type:" skal ændres til en optinal input type -->
+Res type: <input type="text" name="name" /><br />
+X Coord: <input type="text" name="x" /><br />
+Y Coord: <input type="text" name="y" /><br />
+
+
+<button type="submit">Add</button>
+<button type="reset">Reset</button>
+</form>
+{% endblock %}
+
+{% block footer %}
+
+{% endblock %}

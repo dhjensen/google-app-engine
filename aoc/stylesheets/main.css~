@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  background-color: #DDDDDD;
+}
+
+* {
+margin: 0pt auto;
+padding: 0pt;
+}
+
+#wrapper {
+	//* width: 900px;*/
+}
+
+#sidebar {
+	float: left;
+	width: 15em;
+	height: 800px;
+}
+
+#footer {
+	clear: both;
+}
+
+.coord {
+	display: none;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}

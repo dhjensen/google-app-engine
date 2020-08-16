@@ -1,0 +1,8 @@
+App.yalm:
+AEndret version til 7
+index.htm:
+Tilf?jet lidt extra linier
+--This line, and those below, will be ignored--
+
+M    app.yaml
+M    index.htm
