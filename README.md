@@ -1,5 +1,7 @@
 # google-app-engine
 
+Note this is archived.
+
 My google app engine adventures.
 
 ## aoc
